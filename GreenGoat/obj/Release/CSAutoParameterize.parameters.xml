@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="GoatContext-Web.config Connection String" description="GoatContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\v11.0;Initial Catalog=GreenGoat2;Integrated Security=SSPI;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\Emily\\Desktop\\GreenGoat\\GreenGoat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GoatContext']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Emily\\Desktop\\GreenGoat\ -\ Copy\ -\ Copy\\GreenGoat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GoatContext']/@connectionString" />
   </parameter>
   <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="DefaultConnection_ConnectionString" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\Emily\\Desktop\\GreenGoat\\GreenGoat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Emily\\Desktop\\GreenGoat\ -\ Copy\ -\ Copy\\GreenGoat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
   </parameter>
   <parameter name="GoatContext_DatabasePublish-Web.config Connection String" description="GoatContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="GoatContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\Emily\\Desktop\\GreenGoat\\GreenGoat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GoatContext_DatabasePublish']/@connectionString" />
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Emily\\Desktop\\GreenGoat\ -\ Copy\ -\ Copy\\GreenGoat\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GoatContext_DatabasePublish']/@connectionString" />
   </parameter>
 </parameters>

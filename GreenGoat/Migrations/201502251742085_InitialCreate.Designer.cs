@@ -13,7 +13,7 @@ namespace GreenGoat.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201502232030579_InitialCreate"; }
+            get { return "201502251742085_InitialCreate"; }
         }
         
         string IMigrationMetadata.Source
