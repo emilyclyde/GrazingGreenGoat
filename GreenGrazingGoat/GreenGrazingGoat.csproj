@@ -167,8 +167,10 @@
     <Compile Include="Controllers\LotController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="Controllers\SaleController.cs" />
+    <Compile Include="DAL\CustomerRepository.cs" />
     <Compile Include="DAL\GreenContext.cs" />
     <Compile Include="DAL\GreenInitializer.cs" />
+    <Compile Include="DAL\ICustomerRepository.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -201,6 +203,12 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <None Include="Properties\PublishProfiles\grazinggoat %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\grazinggoat %283%29.pubxml" />
+    <None Include="Properties\PublishProfiles\grazinggoat %284%29.pubxml" />
+    <None Include="Properties\PublishProfiles\grazinggoat %285%29.pubxml" />
+    <None Include="Properties\PublishProfiles\grazinggoat %286%29.pubxml" />
+    <None Include="Properties\PublishProfiles\grazinggoat.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
