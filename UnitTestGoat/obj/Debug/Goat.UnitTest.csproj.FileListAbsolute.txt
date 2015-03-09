@@ -1,0 +1,70 @@
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\UnitTestGoat.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\UnitTestGoat.pdb
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\GrazingGoatFinal.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.Optimization.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Owin.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.Razor.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\GrazingGoatFinal.pdb
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.Optimization.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.Razor.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\obj\Debug\Goat.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\obj\Debug\UnitTestGoat.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller - Copy\UnitTestGoat\obj\Debug\UnitTestGoat.pdb
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\UnitTestGoat.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\UnitTestGoat.pdb
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\GrazingGoatFinal.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.Mvc.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\EntityFramework.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.Optimization.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Owin.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.Razor.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\GrazingGoatFinal.pdb
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.Mvc.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\EntityFramework.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.Optimization.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.Razor.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\obj\Debug\Goat.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\obj\Debug\UnitTestGoat.dll
+C:\Users\Emily\Desktop\GrazingGoatFinal - added unit of work customer controller, added goatrepo, unit test - Copy\UnitTestGoat\obj\Debug\UnitTestGoat.pdb
